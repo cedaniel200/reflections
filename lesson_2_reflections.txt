@@ -22,3 +22,7 @@
 
 	nos permite conocer la difurcacion que tinene nuestras versiones
 
+¿Cuál es el resultado de la fusión de dos ramas juntos? ¿Por qué lo representamos en el diagrama de la forma en que hacemos?
+
+	el resultado es una nueva rama con los commit de ambos y los archivos
+	fucionados, se representan para facilitar su comprencion
