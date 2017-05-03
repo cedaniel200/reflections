@@ -26,3 +26,8 @@
 
 	el resultado es una nueva rama con los commit de ambos y los archivos
 	fucionados, se representan para facilitar su comprencion
+
+¿Cuáles son los pros y los contras de frente a la combinación automática de Git siempre haciendo fusiones de forma manual?
+
+	la ventaja es el control sobre el merge la contra es lo tedioso
+	que puede llegar a ser
