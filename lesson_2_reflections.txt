@@ -17,3 +17,8 @@
 
 	para exprimentar o crear versiones diferentes, sin comprometer la 
 	version estable
+
+¿Cómo los diagramas ayudan a visualizar la estructura de las ramas?
+
+	nos permite conocer la difurcacion que tinene nuestras versiones
+
