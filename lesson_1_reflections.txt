@@ -1,0 +1,41 @@
+﻿¿Cómo fue la visualización de un diff entre dos versiones de un archivo de ayuda que vea el error que 
+fue presentado? 
+
+    fue mas clara, mas rapida y facil que hacerlo manual
+
+¿Cómo podría tener fácil acceso a toda la historia de un archivo de hacer que un mayor 
+programador eficiente en el largo plazo? 
+
+    porque podemos como estaba en un tiempo determinado y quizas volver a
+    este para mejorarlo o ver alguna falla.
+
+¿Qué opinas son los pros y los contras de elegir manualmente cuándo crear una 
+confirmación, como se hace en Git, frente a tener versiones guardan automáticamente, como Google 
+Docs hace? 
+
+    pro-> que no se tendran commits innecesarios
+    contra ->que el tamaño de los commits son a criterio lo q
+     puede hacer q unos sean muy grandes y otros pequeños
+
+¿Por qué crees que algunos sistemas de control de versiones, como Git, permiten guardar múltiples 
+archivos en un solo cometió, mientras que otros, como Google Docs, tratan a cada archivo por separado? 
+
+    Porque esta caracteristica suple tanto a proyectos de ub solo
+    archivo como de varios, haciendo que git tenga ventaja sobre otros 
+    sistemas de control de versiones
+
+¿Cómo se puede utilizar el registro de comandos git y git diff para ver el historial de archivos? 
+
+    con git log podemos conocer los commits realizados y su id entre otra
+    informacion, utilizando esta infomracion podemos comparar los commits
+    utilizando git diff
+
+¿Cómo podría usar el control de versiones que se sienta más seguro de hacer cambios que 
+podrían romper algo? 
+
+    Hay mayor seguridad ya que el sistema de control de versiones permite regresar
+    a un commit determinado en el cual el sistema este estable
+
+Ahora que ha configurado el espacio de trabajo, ¿qué es lo que quieres intentar usar Git para? 
+
+    escribir mi primer programa y explorar lo aprendido
