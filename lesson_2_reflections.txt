@@ -12,3 +12,8 @@
 
 	puedo verificar las diferencias entre el directorio de trabajo y el
 	area de ensayo, o entre esta ultima con respecto al ultimo commit
+
+¿Cuáles son algunas situaciones en las ramas serían útiles para mantener su historial organizado? ¿Cómo ayudar a las ramas?
+
+	para exprimentar o crear versiones diferentes, sin comprometer la 
+	version estable
