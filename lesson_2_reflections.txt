@@ -7,3 +7,8 @@
 	es como un espacio logico donde le decimos a git q archivos vamos 
 	tener en cuenta par el siguiente commit. permite hacer varios 
 	cambios logicos y luego hacer un commit por cada uno.
+
+¿Cómo puede usar el área de ensayo para asegurarse de que tiene una cometen por cambio lógico?
+
+	puedo verificar las diferencias entre el directorio de trabajo y el
+	area de ensayo, o entre esta ultima con respecto al ultimo commit
