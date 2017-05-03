@@ -1,0 +1,9 @@
+﻿¿Qué pasa cuando se inicializa un repositorio? ¿Por qué necesita para hacerlo?
+
+	git crea los archivos necesario para empezar a llevar el seguimiento
+	
+¿Cómo es el área de ensayo diferente del directorio de trabajo y el repositorio? ¿Qué valor crees que se ofrece?
+
+	es como un espacio logico donde le decimos a git q archivos vamos 
+	tener en cuenta par el siguiente commit. permite hacer varios 
+	cambios logicos y luego hacer un commit por cada uno.
