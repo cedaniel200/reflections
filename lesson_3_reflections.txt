@@ -6,3 +6,10 @@
 
 	para mayor control y evitar que algo pase a produccion cuando
 	no deberia
+
+Describir las diferencias entre las Forks, clones y ramas. ¿Cuándo utilizar uno en lugar de otro?
+
+	forks cuando se quiere tener una copia de un repositorio en github de uno
+	ubicado tambien en github.
+	clone se utiliza para clonar un repositorio en mi equipo
+	y las ramas para cuando se quiere trabajar sin afectar la rama principal
