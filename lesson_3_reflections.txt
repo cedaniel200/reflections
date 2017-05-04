@@ -1,2 +1,8 @@
-¿Cuándo desea utilizar un repositorio remoto en lugar de mantener todo su trabajo local?
-cuando colaboro con mas gente o para poder acceder a el desde cualquier ubicacion o como respaldo
+﻿¿Cuándo desea utilizar un repositorio remoto en lugar de mantener todo su trabajo local?
+
+	cuando colaboro con mas gente o para poder acceder a el desde cualquier 	ubicacion o como respaldo
+
+¿Por qué puede querer tirar siempre los cambios manualmente en lugar de tener Git mantenerse automáticamente actualizados con su repositorio remoto?
+
+	para mayor control y evitar que algo pase a produccion cuando
+	no deberia
