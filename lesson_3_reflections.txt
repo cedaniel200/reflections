@@ -13,3 +13,8 @@ Describir las diferencias entre las Forks, clones y ramas. ¿Cuándo utilizar un
 	ubicado tambien en github.
 	clone se utiliza para clonar un repositorio en mi equipo
 	y las ramas para cuando se quiere trabajar sin afectar la rama principal
+
+¿Cuál es el beneficio de tener una copia del último estado conocido de la distancia almacenada localmente?
+
+	poder conocer el estado actual entre el repositorio local y el de github
+	con el fin de sincronizarlos cuando sea necesario
