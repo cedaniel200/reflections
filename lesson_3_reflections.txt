@@ -18,3 +18,7 @@ Describir las diferencias entre las Forks, clones y ramas. ¿Cuándo utilizar un
 
 	poder conocer el estado actual entre el repositorio local y el de github
 	con el fin de sincronizarlos cuando sea necesario
+
+¿Cómo te colaborar sin usar Git o GitHub? Lo que sería más fácil, y lo que sería más difícil?
+
+	lo dificil es habituarse a la forma de trabajo
