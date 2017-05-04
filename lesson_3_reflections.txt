@@ -22,3 +22,10 @@ Describir las diferencias entre las Forks, clones y ramas. ¿Cuándo utilizar un
 ¿Cómo te colaborar sin usar Git o GitHub? Lo que sería más fácil, y lo que sería más difícil?
 
 	lo dificil es habituarse a la forma de trabajo
+
+Cuando le gustaría hacer cambios en una rama separada y no directamente en el maestro? ¿Qué beneficios tiene cada enfoque?
+
+	en una diferente cuando no se quiere correr riesgos de afectar 
+	la version estable.
+	creo q la unica excepcion para trabajar en el master es un
+	cambio extremadamente sencillo
